@@ -1,5 +1,12 @@
 # github-slack-integration
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/github-slack-integration/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/github-slack-integration/actions)
+![License](https://img.shields.io/github/license/yksanjo/github-slack-integration)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/github-slack-integration)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/github-slack-integration)
+
 ## Detailed Description
 
 github-slack-integration is maintained as an industry-grade software project with production-ready engineering practices.  
